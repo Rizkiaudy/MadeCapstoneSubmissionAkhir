@@ -39,4 +39,3 @@ jobs:
           path: app/build/outputs/apk/debug/
           destination: artifact-file
           
-          
